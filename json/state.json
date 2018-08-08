@@ -1,0 +1,193 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "codeUf": 12,
+            "name": "Acre",
+            "uf": "AC",
+            "region": 1
+        },
+        {
+            "id": 2,
+            "codeUf": 27,
+            "name": "Alagoas",
+            "uf": "AL",
+            "region": 2
+        },
+        {
+            "id": 3,
+            "codeUf": 16,
+            "name": "Amapá",
+            "uf": "AP",
+            "region": 1
+        },
+        {
+            "id": 4,
+            "codeUf": 13,
+            "name": "Amazonas",
+            "uf": "AM",
+            "region": 1
+        },
+        {
+            "id": 5,
+            "codeUf": 29,
+            "name": "Bahia",
+            "uf": "BA",
+            "region": 2
+        },
+        {
+            "id": 6,
+            "codeUf": 23,
+            "name": "Ceará",
+            "uf": "CE",
+            "region": 2
+        },
+        {
+            "id": 7,
+            "codeUf": 53,
+            "name": "Distrito Federal",
+            "uf": "DF",
+            "region": 5
+        },
+        {
+            "id": 8,
+            "codeUf": 32,
+            "name": "Espírito Santo",
+            "uf": "ES",
+            "region": 3
+        },
+        {
+            "id": 9,
+            "codeUf": 52,
+            "name": "Goiás",
+            "uf": "GO",
+            "region": 5
+        },
+        {
+            "id": 10,
+            "codeUf": 21,
+            "name": "Maranhão",
+            "uf": "MA",
+            "region": 2
+        },
+        {
+            "id": 11,
+            "codeUf": 51,
+            "name": "Mato Grosso",
+            "uf": "MT",
+            "region": 5
+        },
+        {
+            "id": 12,
+            "codeUf": 50,
+            "name": "Mato Grosso do Sul",
+            "uf": "MS",
+            "region": 5
+        },
+        {
+            "id": 13,
+            "codeUf": 31,
+            "name": "Minas Gerais",
+            "uf": "MG",
+            "region": 3
+        },
+        {
+            "id": 14,
+            "codeUf": 15,
+            "name": "Pará",
+            "uf": "PA",
+            "region": 1
+        },
+        {
+            "id": 15,
+            "codeUf": 25,
+            "name": "Paraíba",
+            "uf": "PB",
+            "region": 2
+        },
+        {
+            "id": 16,
+            "codeUf": 41,
+            "name": "Paraná",
+            "uf": "PR",
+            "region": 4
+        },
+        {
+            "id": 17,
+            "codeUf": 26,
+            "name": "Pernambuco",
+            "uf": "PE",
+            "region": 2
+        },
+        {
+            "id": 18,
+            "codeUf": 22,
+            "name": "Piauí",
+            "uf": "PI",
+            "region": 2
+        },
+        {
+            "id": 19,
+            "codeUf": 33,
+            "name": "Rio de Janeiro",
+            "uf": "RJ",
+            "region": 3
+        },
+        {
+            "id": 20,
+            "codeUf": 24,
+            "name": "Rio Grande do Norte",
+            "uf": "RN",
+            "region": 2
+        },
+        {
+            "id": 21,
+            "codeUf": 43,
+            "name": "Rio Grande do Sul",
+            "uf": "RS",
+            "region": 4
+        },
+        {
+            "id": 22,
+            "codeUf": 11,
+            "name": "Rondônia",
+            "uf": "RO",
+            "region": 1
+        },
+        {
+            "id": 23,
+            "codeUf": 14,
+            "name": "Roraima",
+            "uf": "RR",
+            "region": 1
+        },
+        {
+            "id": 24,
+            "codeUf": 42,
+            "name": "Santa Catarina",
+            "uf": "SC",
+            "region": 4
+        },
+        {
+            "id": 25,
+            "codeUf": 35,
+            "name": "São Paulo",
+            "uf": "SP",
+            "region": 3
+        },
+        {
+            "id": 26,
+            "codeUf": 28,
+            "name": "Sergipe",
+            "uf": "SE",
+            "region": 2
+        },
+        {
+            "id": 27,
+            "codeUf": 17,
+            "name": "Tocantins",
+            "uf": "TO",
+            "region": 1
+        }
+    ]
+}
