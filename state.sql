@@ -2,39 +2,38 @@
 
 CREATE TABLE state (
     id       INT          NOT NULL AUTO_INCREMENT,
-    codeUf INT          NOT NULL,
+    code INT          NOT NULL,
     name     VARCHAR (50) NOT NULL,
-    uf       CHAR 	 (2)  NOT NULL,
-    region   INT	      NOT NULL,
+    country_id   INT	      NOT NULL,
     PRIMARY KEY (id)
 );
 
 -- Insert Data --
 
-Insert into state (codeUf, name, uf, region) values (12, 'Acre', 'AC', 1);
-Insert into state (codeUf, name, uf, region) values (27, 'Alagoas', 'AL', 2);
-Insert into state (codeUf, name, uf, region) values (16, 'Amapá', 'AP', 1);
-Insert into state (codeUf, name, uf, region) values (13, 'Amazonas', 'AM', 1);
-Insert into state (codeUf, name, uf, region) values (29, 'Bahia', 'BA', 2);
-Insert into state (codeUf, name, uf, region) values (23, 'Ceará', 'CE', 2);
-Insert into state (codeUf, name, uf, region) values (53, 'Distrito Federal', 'DF', 5);
-Insert into state (codeUf, name, uf, region) values (32, 'Espírito Santo', 'ES', 3);
-Insert into state (codeUf, name, uf, region) values (52, 'Goiás', 'GO', 5);
-Insert into state (codeUf, name, uf, region) values (21, 'Maranhão', 'MA', 2);
-Insert into state (codeUf, name, uf, region) values (51, 'Mato Grosso', 'MT', 5);
-Insert into state (codeUf, name, uf, region) values (50, 'Mato Grosso do Sul', 'MS', 5);
-Insert into state (codeUf, name, uf, region) values (31, 'Minas Gerais', 'MG', 3);
-Insert into state (codeUf, name, uf, region) values (15, 'Pará', 'PA', 1);
-Insert into state (codeUf, name, uf, region) values (25, 'Paraíba', 'PB', 2);
-Insert into state (codeUf, name, uf, region) values (41, 'Paraná', 'PR', 4);
-Insert into state (codeUf, name, uf, region) values (26, 'Pernambuco', 'PE', 2);
-Insert into state (codeUf, name, uf, region) values (22, 'Piauí', 'PI', 2);
-Insert into state (codeUf, name, uf, region) values (33, 'Rio de Janeiro', 'RJ', 3);
-Insert into state (codeUf, name, uf, region) values (24, 'Rio Grande do Norte', 'RN', 2);
-Insert into state (codeUf, name, uf, region) values (43, 'Rio Grande do Sul', 'RS', 4);
-Insert into state (codeUf, name, uf, region) values (11, 'Rondônia', 'RO', 1);
-Insert into state (codeUf, name, uf, region) values (14, 'Roraima', 'RR', 1);
-Insert into state (codeUf, name, uf, region) values (42, 'Santa Catarina', 'SC', 4);
-Insert into state (codeUf, name, uf, region) values (35, 'São Paulo', 'SP', 3);
-Insert into state (codeUf, name, uf, region) values (28, 'Sergipe', 'SE', 2);
-Insert into state (codeUf, name, uf, region) values (17, 'Tocantins', 'TO', 1);
+Insert into state (code, name, country_id) values ('AC', 'Acre', 28);
+Insert into state (code, name, country_id) values ('AL', 'Alagoas', 28);
+Insert into state (code, name, country_id) values ('AP', 'Amapá', 28);
+Insert into state (code, name, country_id) values ('AM', 'Amazonas', 28);
+Insert into state (code, name, country_id) values ('BA', 'Bahia', 28);
+Insert into state (code, name, country_id) values ('CE', 'Ceará', 28);
+Insert into state (code, name, country_id) values ('DF', 'Distrito Federal', 28);
+Insert into state (code, name, country_id) values ('ES', 'Espírito Santo', 28);
+Insert into state (code, name, country_id) values ('GO', 'Goiás', 28);
+Insert into state (code, name, country_id) values ('MA', 'Maranhão', 28);
+Insert into state (code, name, country_id) values ('MT', 'Mato Grosso', 28);
+Insert into state (code, name, country_id) values ('MS', 'Mato Grosso do Sul', 28);
+Insert into state (code, name, country_id) values ('MG', 'Minas Gerais', 28);
+Insert into state (code, name, country_id) values ('PA', 'Pará', 28);
+Insert into state (code, name, country_id) values ('PB', 'Paraíba', 28);
+Insert into state (code, name, country_id) values ('PR', 'Paraná', 28);
+Insert into state (code, name, country_id) values ('PE', 'Pernambuco', 28);
+Insert into state (code, name, country_id) values ('PI', 'Piauí', 28);
+Insert into state (code, name, country_id) values ('RJ', 'Rio de Janeiro', 28);
+Insert into state (code, name, country_id) values ('RN', 'Rio Grande do Norte', 28);
+Insert into state (code, name, country_id) values ('RS', 'Rio Grande do Sul', 28);
+Insert into state (code, name, country_id) values ('RO', 'Rondônia', 28);
+Insert into state (code, name, country_id) values ('RR', 'Roraima', 28);
+Insert into state (code, name, country_id) values ('SC', 'Santa Catarina', 28);
+Insert into state (code, name, country_id) values ('SP', 'São Paulo', 28);
+Insert into state (code, name, country_id) values ('SE', 'Sergipe', 28);
+Insert into state (code, name, country_id) values ('TO', 'Tocantins', 28);
