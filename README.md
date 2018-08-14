@@ -1,4 +1,4 @@
-## Script Sql e JSON com todos os Estados, Municipios, Bairros e Regiões do Brasil com tabelas e colunas em inglês
+## Script Sql e JSON(json desatualizado) com todos os Estados, Municipios, Bairros e Regiões do Brasil com tabelas e colunas em inglês e inclusão de paises
 
 Os dados se encontram com o código oficial do IBGE.
 
